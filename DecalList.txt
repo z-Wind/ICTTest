@@ -1,0 +1,2 @@
+check_decal = TP-S-0.66, TP-S-0_66-G1_1, TP-S-0_8-P, JP0402, JP0805, JP1206, Gasket-5_3X3_7-Gap1,
+pass_decal = TP-S-0_66-SR, JP0402-SR
